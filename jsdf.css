@@ -1,0 +1,236 @@
+.tip{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+.body{
+    margin: 0px;
+}
+
+.top p{
+    font-size: 30px
+}
+
+.top h1{
+    font-size: 60px;
+}
+
+.bottom p{
+    font-size: 20px;
+}
+
+.bottomtxt a{
+    font-size: 20px;
+    border-bottom: 1px solid hsl(170, 45%, 43%);
+    color: hsl(170, 45%, 43%);
+    text-decoration: none;
+}
+
+.bottom h1{
+    font-size: 45px;
+}
+
+.btns{
+    display: flex;
+    gap: 40px;
+}
+
+.btns button{
+    border: 0px;
+    background-color: white;
+}
+
+.top{
+    display: flex;
+    padding: 150px;
+}
+
+.email{
+    padding: 10px;
+    padding-right: 80px;
+}
+
+.blubtn{
+    padding: 13px;
+    background-color: hsl(224, 93%, 58%);
+    color: white;
+    border: 0px;
+    font-size: 12px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 2px;
+    box-shadow: 2px 2px 5px gainsboro;
+}
+
+.img1{
+    height: 500px;
+}
+
+.btm{
+    background-color: hsl(240, 75%, 98%);
+    padding: 35px;
+}
+
+.lienk{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding-bottom: 50px;
+}
+
+.comment{
+    background-color: white;
+    padding: 30px;
+    width: 400px;
+    box-shadow: 5px 5px 5px gainsboro;
+    border-radius: 9px;
+}
+
+.avatar{
+    height: 40px;
+    border-radius: 50%;
+}
+
+.profile{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    
+}
+
+.kyle{
+    margin: 0;
+}
+
+.ceo{
+    margin: 0;
+}
+
+.name{
+    margin-top: 20px;
+}
+
+
+.img2{
+    height: 700px;
+}
+
+.btm{
+    display: flex;
+    padding: 100px;
+}
+
+.curve{
+ width: 100%;
+ display: block;
+}
+
+.one p{
+    font-size: 20px;
+    color: hsl(0, 0%, 75%);
+}
+
+.one h1{
+    font-size: 40px;
+}
+
+.one{
+    background-color: hsl(238, 22%, 44%);
+    color: white;
+    padding: 70px;
+}
+
+.blubtn2{
+    padding: 17px;
+    background-color: hsl(224, 93%, 58%);
+    color: white;
+    border: 0px;
+    font-size: 12px;
+    padding-left: 40px;
+    padding-right: 40px;
+    border-radius: 2px;
+    box-shadow: 2px 2px 5px hsl(243, 87%, 12%);
+}
+
+.gmail2{
+    padding:17px;
+    border-radius: 2px;
+    border: 0px;
+    padding-right: 300px;
+}
+
+.one{
+    display: flex;
+    align-items: center;
+    gap: 500px;
+}
+
+.inps div{
+    padding: 5px;
+}
+
+.two{
+    background-color: hsl(243, 87%, 12%);
+    padding: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+
+
+.two p{
+    color: white;
+}
+
+.socials{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.middle a{
+    color: white;
+    text-decoration: none;
+}
+
+.middle{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.right a{
+    color: white;
+    text-decoration: none;
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.icons{
+    display: flex;
+    gap: 10px;
+}
+
+.icons a{
+    color: white;
+    border: 1px solid white;
+    border-radius: 50%;
+    height: 20px;
+    width: 20px;
+    padding: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
